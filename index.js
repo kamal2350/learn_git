@@ -3,3 +3,4 @@ var b=20;
 function sum(){
     return a+b;
 }
+sum();
