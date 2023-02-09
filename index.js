@@ -4,3 +4,6 @@ function sum(){
     return a+b;
 }
 sum();
+function multiply(){
+    return a*b;
+}
