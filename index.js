@@ -6,5 +6,5 @@ function sum(){
 sum();
 function multiply(){
     return a*b;
-    d
+    
 }
